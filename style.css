@@ -71,7 +71,7 @@ header ul li a:hover {
 
 .hero {
     height: 100vh;
-    background-image: url('background.jpeg'); /* Remplacer avec l'image de fond */
+    background-image: url('background.jpg'); /* Remplacer avec l'image de fond */
     background-size: cover;
     background-position: center;
     display: flex;
